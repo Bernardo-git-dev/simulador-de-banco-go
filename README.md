@@ -20,7 +20,6 @@
 - `Structs` como modelos de entidade (`Conta`)
 - `Métodos` associados a structs
 - Uso de `ponteiros` para evitar cópias e permitir mutabilidade controlada
-- Comparações com JavaScript/TypeScript para facilitar a compreensão
 
 ---
 
