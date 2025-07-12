@@ -27,6 +27,6 @@
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/simulador-banco-go.git
+git clone https://github.com/Bernardo-git-dev/simulador-banco-go.git
 cd simulador-banco-go
 go run main.go
